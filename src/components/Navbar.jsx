@@ -15,9 +15,11 @@ const Navbar = () => {
           menuOpen ? "opacity-1" : "opacity-0 pointer-events-none"
         }`}>
         <span className="flex p-6 items-center gap-2">
-          <img
-            className="w-[40px] bg-[#bc65ff] rounded-full"
-            src="./snapRohan.png"></img>
+          <a href="/blog-portfolio/">
+            <img
+              className="w-[40px] bg-[#bc65ff] rounded-full"
+              src="./snapRohan.png"></img>
+          </a>
           <span className=" leading-5">
             <h1 className="font-bold text-[18px]">Rohan Chaudhary</h1>
             <a
@@ -36,7 +38,7 @@ const Navbar = () => {
             Home
           </Link>
           <Link
-            to="/gallery"
+            to="/blog-portfolio/gallery"
             className="text-[#846eff] px-7 py-4 hover:px-12 duration-300 hover:bg-[#f7f7f7]">
             Gallery
           </Link>
@@ -74,11 +76,13 @@ const Navbar = () => {
         }`}
         onClick={handleMenuClick}></div>
       <nav className="w-screen z-[999] sticky top-0 bg-[#fff] flex items-center border-b-[0.5px] border-b-[#bbb] justify-between px-[2rem] py-3">
-        <img
-          className="w-[50px] bg-[#6C946F] rounded-full"
-          src="./snapRohan.png"
-          alt=""
-        />
+        <a href="/blog-portfolio/">
+          <img
+            className="w-[50px] bg-[#6C946F] rounded-full"
+            src="./snapRohan.png"
+            alt=""
+          />
+        </a>
         <button
           onClick={handleMenuClick}
           className="px-4 p-1 rounded-xl duration-300 hover:ring-1 hover:ring-[#5a5aff] hover:shadow-lg hover:shadow-[#5a5aff5c] bg-[#eee]">

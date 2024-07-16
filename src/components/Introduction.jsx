@@ -10,7 +10,7 @@ const Introduction = ({ setActiveIndex }) => {
       </h1>
       <div className="me--links flex gap-[1rem]">
         <Link
-          to="/gallery"
+          to="/blog-portfolio/gallery"
           className="px-3 p-2 uppercase hover:ring-1 hover:ring-[#846eff] cursor-pointer font-medium text-[#846eff] bg-[#e9e5ff] rounded-xl"
           onClick={() => setActiveIndex(1)}>
           Gallery
