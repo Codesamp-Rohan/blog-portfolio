@@ -32,7 +32,7 @@ const gallery = [
     description:
       "A loading screen transition with name which is animated and removed by two boxes coming from down. This effect is made using React Js, TailwindCSS, GSAP.",
     tag: "transition",
-    image: "./Projects/Intro Home-section/Intro Home-section001.webp",
+    image: "./Intro Home-section001.webp",
     date: "July 11, 2024",
     link: "./auto-scroll-up-transition",
     value: 11,
@@ -42,7 +42,7 @@ const gallery = [
     description:
       "A loading screen transition with name which is animated and removed by two boxes coming from down. This effect is made using React Js, TailwindCSS, GSAP.",
     tag: "landing page",
-    image: "./Projects/Landing Page/LandingPage002.webp",
+    image: "./LandingPage002.webp",
     date: "July 09, 2024",
     link: "./furniture-landing-page",
     value: 31,
@@ -52,7 +52,7 @@ const gallery = [
     description:
       "A loading screen transition with name which is animated and removed by two boxes coming from down. This effect is made using React Js, TailwindCSS, GSAP.",
     tag: "landing page",
-    image: "./Projects/Landing Page/deploy001.webp",
+    image: "./deploy001.webp",
     date: "July 15, 2024",
     link: "./deploy-clone",
     value: 32,
@@ -62,7 +62,7 @@ const gallery = [
     description:
       "A loading screen transition with name which is animated and removed by two boxes coming from down. This effect is made using React Js, TailwindCSS, GSAP.",
     tag: "parallax",
-    image: "./Projects/Parallax/Text Image Parallax.webp",
+    image: "./Text Image Parallax.webp",
     date: "July 09, 2024",
     link: "./text-image-parallax",
     value: 21,
@@ -72,7 +72,7 @@ const gallery = [
     description:
       "A loading screen transition with name which is animated and removed by two boxes coming from down. This effect is made using React Js, TailwindCSS, GSAP.",
     tag: "menu",
-    image: "./Projects/Menu/menu1.webp",
+    image: "./menu1.webp",
     date: "July 08, 2024",
     link: "./full-screen-menu",
     value: 21,
