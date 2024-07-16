@@ -30,7 +30,7 @@ const gallery = [
   {
     title: "Auto Scroll Up Transition",
     description:
-      "A loading screen transition with name which is animated and removed by two boxes coming from down. This effect is made using React Js, TailwindCSS, GSAP.",
+      "A loading full screen transition with name which is animated and removed by two boxes coming from down. This effect is made using React Js, TailwindCSS, GSAP.",
     tag: "transition",
     image: "./Intro Home-section001.webp",
     date: "July 11, 2024",
