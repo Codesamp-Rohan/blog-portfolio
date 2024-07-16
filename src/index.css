@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  font-family: "Inter", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #000;
+  background-color: #fff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+}
+@font-face {
+  font-family: ppe;
+  src: url("./Fonts/PPEiko.woff2");
+}
+@font-face {
+  font-family: ppm;
+  src: url("./Fonts/PPM.woff2");
+}
+.ppe {
+  font-family: ppe;
+}
+.ppm {
+  font-family: ppm;
+}
