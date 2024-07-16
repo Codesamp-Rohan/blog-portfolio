@@ -20,14 +20,14 @@ const Introduction = ({ setActiveIndex }) => {
           href="https://dribbble.com/codesamprohan"
           className="px-3 flex items-center gap-2 p-2 uppercase hover:ring-1 hover:ring-[#846eff] cursor-pointer font-medium text-[#846eff] bg-[#e9e5ff] rounded-xl">
           Dribbble
-          <img className="w-[12px]" src="./Icons/link.png" alt="icon"></img>
+          <img className="w-[12px]" src="./link.png" alt="icon"></img>
         </a>
         <a
           href="https://codesamprohan.me"
           target="_blank"
           className="px-3 flex items-center gap-2 p-2 uppercase hover:ring-1 hover:ring-[#846eff] cursor-pointer font-medium text-[#846eff] bg-[#e9e5ff] rounded-xl">
           Portfolio
-          <img className="w-[12px]" src="./Icons/link.png" alt="icon"></img>
+          <img className="w-[12px]" src="./link.png" alt="icon"></img>
         </a>
       </div>
       <div className="recent uploads mt-[50px]">

@@ -11,12 +11,12 @@ const ProjectPage = ({ ProjectDetail, setActiveIndex }) => {
                 to="/blog-portfolio/gallery"
                 className="flex items-center gap-1 text-[14px] text-[#4f576c]"
                 onClick={() => setActiveIndex(1)}>
-                <img className="w-[10px]" src="/left-arrow.png"></img>go back
+                <img className="w-[10px]" src="../left-arrow.png"></img>go back
               </Link>
               <div className="my--section flex items-center gap-[10px]">
                 <img
                   className="w-[40px] rounded-full bg-[#6B946F]"
-                  src="/snapRohan.png"
+                  src="../snapRohan.png"
                   loading="lazy"></img>
                 <span>
                   <p className="text-[#4f576c]">Rohan Chaudhary</p>
@@ -38,7 +38,7 @@ const ProjectPage = ({ ProjectDetail, setActiveIndex }) => {
                     target="_blank"
                     className="flex items-center gap-[8px] w-fit px-3 p-2 hover:ring-1 hover:ring-[#846eff] cursor-pointer font-medium text-[#846eff] bg-[#e9e5ff] rounded-xl">
                     {link.name}
-                    <img className="w-[10px]" src="./Icons/link.png"></img>
+                    <img className="w-[10px]" src="../link.png"></img>
                   </Link>
                 );
               })}

@@ -29,7 +29,7 @@ const recentUploads = [
     description:
       "An Awwwards website clone which is completely focus on recycling the garbage and make the better world, the website name is Deploy and developed it using React Js, TailwindCSS, GSAP, Locomotive-Scroll",
     tag: "landing page",
-    image: "./Projects/Landing Page/deploy001.webp",
+    image: "./deploy001.webp",
     date: "July 15, 2024",
     link: "./gallery/deploy-clone",
     value: 32,
@@ -39,7 +39,7 @@ const recentUploads = [
     description:
       "A loading screen transition with name which is animated and removed by two boxes coming from down. This effect is made using React Js, TailwindCSS, GSAP.",
     tag: "transition",
-    image: "./Projects/Intro Home-section/Intro Home-section001.webp",
+    image: "./Intro Home-section001.webp",
     date: "July 11, 2024",
     link: "./gallery/auto-scroll-up-transition",
     value: 11,
@@ -49,7 +49,7 @@ const recentUploads = [
     description:
       "A landing page for a furniture business with animation and effects. This effect is made using React Js, TailwindCSS, GSAP.",
     tag: "landing page",
-    image: "./Projects/Landing Page/LandingPage002.webp",
+    image: "./LandingPage002.webp",
     date: "July 11, 2024",
     link: "./gallery/furniture-landing-page",
     value: 31,

@@ -51,19 +51,19 @@ const Navbar = () => {
           <Link
             to="/"
             className="text-[#777] flex items-center gap-3 px-7 py-4 hover:px-12 duration-300 hover:bg-[#f7f7f7]">
-            <img className="w-[20px]" src="./Icons/github.png"></img>
+            <img className="w-[20px]" src="./github.png"></img>
             GitHub
           </Link>
           <Link
             to="/"
             className="text-[#777] flex items-center gap-3 px-7 py-4 hover:px-12 duration-300 hover:bg-[#f7f7f7]">
-            <img className="w-[20px]" src="./Icons/github.png"></img>
+            <img className="w-[20px]" src="./github.png"></img>
             Portfolio
           </Link>
           <Link
             to="/"
             className="text-[#777] flex items-center gap-3 px-7 py-4 hover:px-12 duration-300 hover:bg-[#f7f7f7]">
-            <img className="w-[20px]" src="./Icons/dribbble2.png"></img>
+            <img className="w-[20px]" src="./dribbble2.png"></img>
             Dribbble
           </Link>
         </span>

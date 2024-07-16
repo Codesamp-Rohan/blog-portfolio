@@ -55,7 +55,7 @@ const links = [
         href: "https://codesamprohan.me",
         value: 2,
         linkAvailable: true,
-        img: "./Icons/link.png",
+        img: "./link.png",
       },
     ],
   },

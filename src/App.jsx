@@ -82,13 +82,13 @@ const ProjectDetail = [
         ],
         images: [
           {
-            img: "/Intro Home-section001.webp",
+            img: "../Intro Home-section001.webp",
           },
         ],
         video: [
           {
             available: true,
-            video: "/Intro Home-section1.mp4",
+            video: "../Intro Home-section1.mp4",
           },
         ],
         value: 11,
@@ -118,10 +118,10 @@ const ProjectDetail = [
         ],
         images: [
           {
-            img: "/LandingPage002.webp",
+            img: "../LandingPage002.webp",
           },
           {
-            img: "/LandingPage001.webp",
+            img: "../LandingPage001.webp",
           },
         ],
         video: [
@@ -157,7 +157,7 @@ const ProjectDetail = [
         ],
         images: [
           {
-            img: "/Text Image Parallax.webp",
+            img: "../Text Image Parallax.webp",
           },
         ],
         video: [
@@ -192,13 +192,13 @@ const ProjectDetail = [
         ],
         images: [
           {
-            img: "/menu1.webp",
+            img: "../menu1.webp",
           },
         ],
         video: [
           {
             available: true,
-            video: "/menu1 video.mp4",
+            video: "../menu1 video.mp4",
           },
         ],
         value: 41,
@@ -227,19 +227,19 @@ const ProjectDetail = [
         ],
         images: [
           {
-            img: "/deploy001.webp",
+            img: "../deploy001.webp",
           },
           {
-            img: "/deploy002.webp",
+            img: "../deploy002.webp",
           },
           {
-            img: "/deploy003.webp",
+            img: "../deploy003.webp",
           },
         ],
         video: [
           {
             available: true,
-            video: "/deployVideo.mp4",
+            video: "../deployVideo.mp4",
           },
         ],
         value: 41,
