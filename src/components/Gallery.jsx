@@ -75,7 +75,17 @@ const gallery = [
     image: "./menu1.webp",
     date: "July 08, 2024",
     link: "./full-screen-menu",
-    value: 21,
+    value: 41,
+  },
+  {
+    title: "Sonar Menu",
+    description:
+      "An Awwwards like menu with cool animation and effects. This effect is made using React Js, TailwindCSS, GSAP.",
+    tag: "menu",
+    image: "./sonarmenu.webp",
+    date: "July 18, 2024",
+    link: "./sonar-menu",
+    value: 42,
   },
 ];
 

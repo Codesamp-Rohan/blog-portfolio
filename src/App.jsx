@@ -227,7 +227,7 @@ const ProjectDetail = [
         ],
         images: [
           {
-            img: "",
+            img: "../sonarmenu.webp",
           },
         ],
         video: [
