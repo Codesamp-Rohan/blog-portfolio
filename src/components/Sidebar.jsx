@@ -107,6 +107,12 @@ const links = [
         value: 41,
         linkAvailable: false,
       },
+      {
+        title: "Sonar Menu",
+        href: "/blog-portfolio/gallery/sonar-menu",
+        value: 42,
+        linkAvailable: false,
+      },
     ],
   },
   {

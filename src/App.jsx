@@ -174,9 +174,9 @@ const ProjectDetail = [
     path: "/blog-portfolio/gallery/full-screen-menu",
     detail: [
       {
-        title: "Text Image Parallax",
+        title: "Full Screen Menu",
         description: "A simple auto scroll up transition on scroll.",
-        tag: "parallax",
+        tag: "menu",
         date: "July 06, 2024",
         timeTaken: "Low",
         difficulty: "Easy",
@@ -199,6 +199,41 @@ const ProjectDetail = [
           {
             available: true,
             video: "../menu1 video.mp4",
+          },
+        ],
+        value: 41,
+      },
+    ],
+  },
+  {
+    path: "/blog-portfolio/gallery/sonar-menu",
+    detail: [
+      {
+        title: "Sonar Menu",
+        description: "A cool awwwards like menu animation.",
+        tag: "menu",
+        date: "July 18, 2024",
+        timeTaken: "Low",
+        difficulty: "Easy",
+        links: [
+          {
+            name: "Demo",
+            link: "https://codesamp-rohan.github.io/full-page-menu/",
+          },
+          {
+            name: "Source Code",
+            link: "https://github.com/Codesamp-Rohan/full-page-menu",
+          },
+        ],
+        images: [
+          {
+            img: "",
+          },
+        ],
+        video: [
+          {
+            available: true,
+            video: "../sonar-menu.mp4",
           },
         ],
         value: 41,
