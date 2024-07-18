@@ -116,6 +116,11 @@ const dateUploads = [
         link: "/gallery/full-screen-menu",
         name: "Full Screen Menu",
       },
+      {
+        date: "July 18, 2024",
+        link: "/gallery/sonar-menu",
+        name: "Sonar Menu",
+      },
     ],
   },
   {

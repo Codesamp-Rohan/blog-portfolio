@@ -2,7 +2,7 @@ import Uploads from "../components/Uploads";
 
 const Gallery = ({ setActiveIndex }) => {
   return (
-    <div className="flex flex-col w-full h-full overflow-y-scroll home">
+    <div className="flex flex-col w-full h-full overflow-y-scroll home mb-[200px]">
       <h1 className="font-bold text-[1.5rem] mb-[20px]">All the Projects</h1>
       <div className="flex flex-wrap gap-[1rem]">
         {gallery.map((upload, i) => {
