@@ -28,6 +28,16 @@ const Gallery = ({ setActiveIndex }) => {
 
 const gallery = [
   {
+    title: "Hyperspace Landing Page",
+    description:
+      "A loading screen transition with name which is animated and removed by two boxes coming from down. This effect is made using React Js, TailwindCSS, GSAP.",
+    tag: "landing page",
+    image: "./LandingPage003a.webp",
+    date: "August 03, 2024",
+    link: "./hyperspace-landing-page",
+    value: 31,
+  },
+  {
     title: "Auto Scroll Up Transition",
     description:
       "A loading full screen transition with name which is animated and removed by two boxes coming from down. This effect is made using React Js, TailwindCSS, GSAP.",

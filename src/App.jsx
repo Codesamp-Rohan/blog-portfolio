@@ -281,6 +281,45 @@ const ProjectDetail = [
       },
     ],
   },
+  {
+    path: "/blog-portfolio/gallery/hyperspace-landing-page",
+    detail: [
+      {
+        title: "Hyperspace Landing Page",
+        description:
+          "An awwwards like landing page for you furniture website with cool animation and smoothness. I developed it using React Js, TailwindCSS, GSAP.",
+        tag: "landing page",
+        date: "August 03, 2024",
+        timeTaken: "Hard",
+        difficulty: "Advance",
+        links: [
+          {
+            name: "Demo",
+            link: "https://codesamp-rohan.github.io/hyperspace",
+          },
+          {
+            name: "Source Code",
+            link: "https://github.com/Codesamp-Rohan/hyperspace",
+          },
+        ],
+        images: [
+          {
+            img: "../LandingPage003a.webp",
+          },
+          {
+            img: "../LandingPage003b.webp",
+          },
+        ],
+        video: [
+          {
+            available: false,
+            video: "",
+          },
+        ],
+        value: 11,
+      },
+    ],
+  },
 ];
 
 export default App;

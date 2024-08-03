@@ -96,6 +96,12 @@ const links = [
         value: 32,
         linkAvailable: false,
       },
+      {
+        title: "Hyperspace Landing Page",
+        href: "/blog-portfolio/gallery/Hyperspace-landing-page",
+        value: 33,
+        linkAvailable: false,
+      },
     ],
   },
   {

@@ -106,6 +106,11 @@ const dateUploads = [
         link: "/gallery/deploy-clone",
         name: "Awwwards Deploy Clone",
       },
+      {
+        date: "August 03, 2024",
+        link: "/gallery/hyperspace-landing-page",
+        name: "Hyperspace Landing Page",
+      },
     ],
   },
   {

@@ -25,6 +25,16 @@ const RecentUploads = ({ setActiveIndex }) => {
 
 const recentUploads = [
   {
+    title: "Hyperspace Landing Page",
+    description:
+      "A landing page for a furniture business with animation and effects. This effect is made using React Js, TailwindCSS, GSAP.",
+    tag: "landing page",
+    image: "./LandingPage003a.webp",
+    date: "July 11, 2024",
+    link: "./gallery/hyperspace-landing-page",
+    value: 33,
+  },
+  {
     title: "Awwwards Deploy Clone",
     description:
       "An Awwwards website clone which is completely focus on recycling the garbage and make the better world, the website name is Deploy and developed it using React Js, TailwindCSS, GSAP, Locomotive-Scroll",
@@ -43,16 +53,6 @@ const recentUploads = [
     date: "July 11, 2024",
     link: "./gallery/auto-scroll-up-transition",
     value: 11,
-  },
-  {
-    title: "Furniture Website Landing Page",
-    description:
-      "A landing page for a furniture business with animation and effects. This effect is made using React Js, TailwindCSS, GSAP.",
-    tag: "landing page",
-    image: "./LandingPage002.webp",
-    date: "July 11, 2024",
-    link: "./gallery/furniture-landing-page",
-    value: 31,
   },
 ];
 
