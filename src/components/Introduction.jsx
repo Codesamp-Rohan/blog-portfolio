@@ -78,7 +78,7 @@ const dateUploads = [
     title: [
       {
         date: "July 11, 2024",
-        link: "/gallery/auto-scroll-up-transition",
+        link: "/blog-portfolio/gallery/auto-scroll-up-transition",
         name: "Auto Scroll Up Transition",
       },
     ],
@@ -88,7 +88,7 @@ const dateUploads = [
     title: [
       {
         date: "July 11, 2024",
-        link: "/gallery/text-image-parallax",
+        link: "/blog-portfolio/gallery/text-image-parallax",
         name: "Text Image parallax",
       },
     ],
@@ -98,17 +98,17 @@ const dateUploads = [
     title: [
       {
         date: "July 11, 2024",
-        link: "/gallery/furniture-landing-page",
+        link: "/blog-portfolio/gallery/furniture-landing-page",
         name: "Furniture Landing Page",
       },
       {
         date: "July 15, 2024",
-        link: "/gallery/deploy-clone",
+        link: "/blog-portfolio/gallery/deploy-clone",
         name: "Awwwards Deploy Clone",
       },
       {
         date: "August 03, 2024",
-        link: "/gallery/hyperspace-landing-page",
+        link: "/blog-portfolio/gallery/hyperspace-landing-page",
         name: "Hyperspace Landing Page",
       },
     ],
@@ -118,12 +118,12 @@ const dateUploads = [
     title: [
       {
         date: "July 11, 2024",
-        link: "/gallery/full-screen-menu",
+        link: "/blog-portfolio/gallery/full-screen-menu",
         name: "Full Screen Menu",
       },
       {
         date: "July 18, 2024",
-        link: "/gallery/sonar-menu",
+        link: "/blog-portfolio/gallery/sonar-menu",
         name: "Sonar Menu",
       },
     ],
@@ -133,7 +133,7 @@ const dateUploads = [
     title: [
       {
         date: "July 11, 2024",
-        link: "/gallery/auto-scroll-up-transition",
+        link: "/blog-portfolio/gallery/auto-scroll-up-transition",
         name: "One Page Portfolio",
       },
     ],

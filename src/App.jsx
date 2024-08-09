@@ -60,7 +60,7 @@ function App() {
 
 const ProjectDetail = [
   {
-    path: "blog-portfolio/gallery/auto-scroll-up-transition",
+    path: "/blog-portfolio/gallery/auto-scroll-up-transition",
     detail: [
       {
         title: "Auto Scroll Up Transition",
