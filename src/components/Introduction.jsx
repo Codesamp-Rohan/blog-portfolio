@@ -58,7 +58,7 @@ const Introduction = ({ setActiveIndex }) => {
                         key={i}
                         className="flex gap-[10rem] border-b-[0.5px] hover:pb-[10px] duration-200 border-[#000] py-2 text-[#4f576c] text-[12px]">
                         <p>{data.date}</p>
-                        <a href={data.link}>{data.name}</a>
+                        <Link to={data.link}>{data.name}</Link>
                       </li>
                     );
                   })}
